@@ -1,5 +1,21 @@
-# Brakelight
-FSAE Brakelight Design
+##This is the repo for all FSAE Eagle Libraries
 
+##Structure
 
-Under the Wiki tab you can find the detailed information about the brake light project. To add your brakelight file just simply click the upload button and select your .brd and .sch files. Make sure you label your board using the silkscreen with your name and the revision. For this case, REV-0. Also, when you save your files include your name in the title. It will make it easier to find out whose is whose.
+###MSTFSAE-DigitalIC
+* Microprocessors
+* All other Digital ICs
+
+###MSTFSAE-PMIC
+* All Power Managment ICs
+  * Voltage Reguluators
+  * Power On Reset
+  * Supply Switches
+
+###MSTFSAE-Connectors
+* All Connectors
+
+###MSTFSAE-DiscreteSemi
+* Tranistors
+* Diodes
+* ETC You get the idea
